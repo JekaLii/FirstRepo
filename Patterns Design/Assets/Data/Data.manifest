@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: mymain
+      Dependencies:
+        Dependency_0: myterrain
+        Dependency_1: mycube
+    Info_1:
+      Name: myterrain
+      Dependencies: {}
+    Info_2:
+      Name: mycube
+      Dependencies: {}
+    Info_3:
+      Name: mycamera
+      Dependencies: {}
